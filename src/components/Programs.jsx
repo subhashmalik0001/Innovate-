@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ProgramSubnav from './programs/ProgramSubnav'
-import ProgramList from './programs/Programlist'
+import ProgramList from './programs/ProgramList'
 import CohortList from './programs/CohortList'
 import PipelineList from './programs/PipelineList'
 import PipelineBoard from './programs/PipelineBoard'
